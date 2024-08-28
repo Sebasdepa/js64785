@@ -30,10 +30,9 @@ nhabitacion(prompt('Ingrese el número de Habitación que desea reservar'));
 
 
 
-let valor = 0
+const valor = 25000
 
 const valorhabitacion = function(cantidaddias){
-    let valor = 25000;
     console.log('El precio de la reserva es de ' + cantidaddias*valor);
 }
 
