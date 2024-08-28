@@ -37,3 +37,5 @@ const valorhabitacion = function(cantidaddias){
 }
 
 valorhabitacion(prompt('ingrese la cantidad de dias a reservar'));
+
+let confirmar = confirm('¿Esta de acuerdo con la operación realizada?');
